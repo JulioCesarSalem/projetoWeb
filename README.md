@@ -2,9 +2,9 @@
 
 ## Initiate Project at Fatec Lab:
 ```
-git clone https://github.com/pedrohenriquebarcellos/projetowebfatec.git
-git config --global user.name "Pedro Barcellos"
-git config --global user.email "pedrostyle@gmail.com"
+git clone https://github.com/JulioCesarSalem/projetowebfatec.git
+git config --global user.name "julioSalem"
+git config --global user.email "juliocesarspq@gmail.com"
 ```
 
 ## Spring Properties
